@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-cd 4mc
+cd M-SDBA-master\Scripts\UI\ui\4mc
 python __init__.py
 ```
 
